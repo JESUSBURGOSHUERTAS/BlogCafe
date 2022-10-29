@@ -8,3 +8,5 @@
 ##### - Lazy Loading
 ##### - Prefetchimagenes Webp
 ##### - Modernizr
+
+https://blogcafe-jesusburgos.netlify.app/
